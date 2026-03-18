@@ -1,4 +1,4 @@
-# From Pain to Praise: Aspect-Based Sentiment-Analysis for Norwegain Patient Feedback
+# From Pain to Praise: Aspect-Based Sentiment Analysis for Norwegain Patient Feedback
 This repository contains the full paper, code, link to models and ABSA guidelines associated with our paper.
 
 ### Models
